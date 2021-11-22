@@ -1,0 +1,20 @@
+{
+  "name": "node-colores-01",
+  "version": "1.0.0",
+  "description": "Es una simple tabla de multiplicar con archivo de texto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app2.js --base=52"
+  },
+  "author": "Marco Bastidas Toala",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "colors.js": "^1.2.4",
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
